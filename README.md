@@ -1,5 +1,5 @@
 # EV-Charging-Opt
-Single electric vehicle optimized chargling algorithm for integration into smart home
+Single electric vehicle optimized charging algorithm for integration into smart home
 
 Coded in MATLAB and solved with convex solver CVX. This Algorithm incoporates opensource data from the Pecan Research Insitite, and CAISO energy market demand/resource allocation data to solve a quadratic objective function for day ahead EV charging
 
